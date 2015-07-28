@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Cake.cs" />
     <Compile Include="Cart.cs" />
+    <Compile Include="Customer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
